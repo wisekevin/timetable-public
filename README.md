@@ -20,4 +20,4 @@ Features include:
 
 # Architecture 
 
-<img src="https://raw.githubusercontent.com/wisekevin/timetable-public/master/timetable architecture.png" height = "80%" width = "80%"/> 
+<img src="https://raw.githubusercontent.com/wisekevin/timetable-public/master/timetable architecture.png" height = "50%" width = "50%"/> 
