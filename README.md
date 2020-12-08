@@ -1,6 +1,6 @@
 # TimeTables
 
-Authors: Dylan Snyder, Bates Brodie, Batya Stein, Kevin Zheng, and AJ Kawczynski
+Authors: Kevin Zheng, Dylan Snyder, Bates Brodie, Batya Stein, and AJ Kawczynski
 
 
 
