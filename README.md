@@ -12,6 +12,8 @@ Time Tables is an employee shift scheduling and management application for use b
 
 - Employees can input global and weekly availibilty to determine when they will be scheduled
 
+- Managers can determine needed shifts and manually edit generated schedules to resolve conflicts  
+
 - Email notifications when the week's schedule is posted
 
 - Front-end administrator panel to modify and delete system groups and users
