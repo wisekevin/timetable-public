@@ -2,7 +2,7 @@
 
 Authors: Kevin Zheng, Dylan Snyder, Bates Brodie, Batya Stein, and AJ Kawczynski
 
-Time Tables is a employee shift scheduling and management application for use by Princeton University student organizations. It was inspired in particular by Coffee Club, a group which was suffering from high enterprise shift management software costs. 
+Time Tables is an employee shift scheduling and management application for use by Princeton University student organizations. It was inspired in particular by Coffee Club, a group which was suffering from high enterprise shift management software costs. 
 
 ## Features include:
 
